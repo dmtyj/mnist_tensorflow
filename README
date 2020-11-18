@@ -1,2 +1,6 @@
 手写体识别项目
+
+
+本项目使用TensorFlow技术和flask框架相结合，通过前端html和jQuery框架，利用canvas画布将用户在屏幕上的手写文字传入到后台flask的restful api中，然后flask通过调取模型接口，把数据传入模型中进行手写体识别，形成一个完整的闭环。
+
 InOvaTe.Club创新创意俱乐部（创意工坊）——杜洽弟
